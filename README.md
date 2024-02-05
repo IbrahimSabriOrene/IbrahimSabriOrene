@@ -19,7 +19,7 @@
     "Is_Student": true,
     "Where": "Ege University",
     "Role": ["Freelancer","Backend Developer"],
-    "Motto": "Turning ideas into reality through code"
+    "Motto": "It works on my machine!"
   },
   "Skills": ["Web Development", "C_sharp", "JavaScript", "Dotnet", "Golang", "Bootstrap", "Shell", "Lua"],
   "Projects": {
