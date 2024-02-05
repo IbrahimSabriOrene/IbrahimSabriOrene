@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Hey, I'm İbrahim "Oz" Sabri Orene. I code stuff using C# and love working on my solo projects</p>
-
+<p align="left">I want to say people that i use vim btw and i use arch btw one day.</p>
 ###
 
 <h2 align="left">About me</h2>
