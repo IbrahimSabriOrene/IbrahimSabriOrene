@@ -11,7 +11,23 @@
 ###
 
 ```json
-<br>{<br>  "Profile": {<br>    "Name": "İbrahim 'Oz' Sabri Orene",<br>    "Age": 23,<br>    "Location": "Turkey",<br>    "Is_Student": true,<br>    "Where": "Ege University",<br>    "Role": "Freelancer",<br>    "Motto": "Turning ideas into reality through code"<br>  },<br>  "Skills": ["Web Development", "C_sharp", "JavaScript", "Dotnet",,"Golang", "Bootstrap","Shell", "Lua"],<br>  "Projects": {<br>    "Current": "Building a e-commerce website",<br>    "Past": ["Developed a bussiness card site for a customer", "Bunch of cv fill projects"]<br>  }<br>}<br>
+{
+  "Profile": {
+    "Name": "İbrahim 'Oz' Sabri Orene",
+    "Age": 23,
+    "Location": "Turkey",
+    "Is_Student": true,
+    "Where": "Ege University",
+    "Role": "Freelancer",
+    "Motto": "Turning ideas into reality through code"
+  },
+  "Skills": ["Web Development", "C_sharp", "JavaScript", "Dotnet", "Golang", "Bootstrap", "Shell", "Lua"],
+  "Projects": {
+    "Current": "Building an e-commerce website",
+    "Past": ["Developed a business card site for a customer", "Various CV-related projects"]
+  }
+}
+
 ```
 
 ###
