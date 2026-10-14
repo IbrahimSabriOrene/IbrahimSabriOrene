@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+ <title id="title">Ibrahim Sabri Örene — Agentic AI Engineer</title><desc id="desc">Multi-agent systems, custom MCP tools and retrieval. A diagram connects planning, tools, review and human approval.</desc>
+ <rect width="1200" height="360" rx="24" fill="#e5edff"/><rect x="755" y="0" width="445" height="360" rx="24" fill="#244ee8"/>
+ <g font-family="Arial, sans-serif" fill="#182d45"><text x="55" y="98" font-size="22" fill="#244ee8">Agentic AI Engineer</text><text x="55" y="165" font-size="49" font-weight="700" letter-spacing="-2">Ibrahim Sabri Örene</text><text x="55" y="218" font-size="25">Multi-agent systems. Useful tools.</text><text x="55" y="253" font-size="25">A human in the loop.</text><text x="55" y="310" font-size="18" fill="#53647b">Istanbul, Türkiye  /  Python · TypeScript · C#/.NET</text></g>
+ <g stroke="#a7bcff" stroke-width="2"><path d="M975 94V136M889 167H1060M975 200V242"/></g>
+ <g fill="#fff"><rect x="900" y="52" width="150" height="53" rx="12"/><rect x="813" y="140" width="150" height="53" rx="12"/><rect x="988" y="140" width="150" height="53" rx="12"/><rect x="860" y="241" width="230" height="53" rx="12"/></g>
+ <g font-family="Arial, sans-serif" fill="#182d45" font-size="19" text-anchor="middle"><text x="975" y="85">Plan</text><text x="888" y="173">Use tools</text><text x="1063" y="173">Review</text><text x="975" y="274">Human approval</text></g><text x="975" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#e5edff">An engineering approach, illustrated.</text>
+</svg>
