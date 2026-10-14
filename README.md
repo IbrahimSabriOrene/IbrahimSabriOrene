@@ -10,16 +10,22 @@ I'm **Ibrahim Sabri Örene**, an Agentic AI Engineer based in Istanbul, Türkiye
 
 | Project | What I built or configured |
 | --- | --- |
-| **AI Orchestrator** | LangGraph software-team prototype with architect/reviewer roles, parallel backend/frontend work, test gates, bounded retries and human escalation. |
-| **Paperclip agent teams** | Company-style agent roles, isolated Git worktrees and cross-model review, using the existing Paperclip platform. |
-| **WhatsApp RAG** | Knowledge assistant with semantic and date-based retrieval, conversation context and a model-selected MCP date resolver. |
-| **Addy AI** | Media-workflow prototype with checkpoints, human decisions, QA and bounded provider retries. Offline path implemented; live-provider release validation remains pending. |
-| **Upwork MCP** | Job search, saved-search monitoring, events and proposal drafts. Submission stays with a human. |
-| **Trendyol Milla MCP** | Browser-backed product search, filter discovery and structured results. |
-| **Stellaris Teacher MCP** | Offline-first knowledge retrieval, BM25 search and terminology resolution. |
-| **Warframe Guide MCP** | Wiki retrieval, fuzzy terminology matching and UI-label lookup for game guidance. |
+| **[AI Orchestrator](https://github.com/IbrahimSabriOrene/ai-orchestrator)** | LangGraph software-team prototype with architect/reviewer roles, parallel backend/frontend work, test gates, bounded retries and human escalation. |
+| **[Paperclip agent teams](https://github.com/IbrahimSabriOrene/paperclip-agent-team-config)** | Company-style agent roles, isolated Git worktrees and cross-model review, using the existing Paperclip platform. |
+| **[WhatsApp RAG](https://github.com/IbrahimSabriOrene/whatsapp-rag-bot)** | Knowledge assistant with semantic and date-based retrieval, conversation context and a model-selected MCP date resolver. |
+| **[Addy AI](https://github.com/IbrahimSabriOrene/addy-ai)** | Media-workflow prototype with checkpoints, human decisions, QA and bounded provider retries. Offline path implemented; live-provider release validation remains pending. |
+| **[Upwork MCP](https://github.com/IbrahimSabriOrene/upwork-mcp)** | Job search, saved-search monitoring, events and proposal drafts. Submission stays with a human. |
+| **[Trendyol Milla MCP](https://github.com/IbrahimSabriOrene/trendyol-milla-mcp)** | Browser-backed product search, filter discovery and structured results. |
+| **[Stellaris Teacher MCP](https://github.com/IbrahimSabriOrene/mcp-stellaris)** | Offline-first knowledge retrieval, BM25 search and terminology resolution. |
+| **[Warframe Guide MCP](https://github.com/IbrahimSabriOrene/mcp-warframe)** | Wiki retrieval, fuzzy terminology matching and UI-label lookup for game guidance. |
 
-These descriptions distinguish working source implementations, prototypes and team configurations. Public source links are included where available; other personal work is described on my portfolio.
+These descriptions distinguish source implementations, prototypes and team configurations. Each linked repository is a reviewed public source snapshot; private data and original working histories are excluded.
+
+### Other personal software
+
+- [MyAleca](https://github.com/IbrahimSabriOrene/myaleca): personal hobby project for Warframe inventory/data tooling and a WPF client.
+- [CategorizedDownload](https://github.com/IbrahimSabriOrene/categorized-download): WPF download manager with a Chrome extension.
+- [AI Help Center](https://github.com/IbrahimSabriOrene/IbrahimSabriOrene.github.io/tree/codex/ai-help-center-source): partial audio-ingestion prototype; full transcription/RAG remains incomplete. Public source is on a separate portfolio-repository branch.
 
 ### How I approach the work
 
